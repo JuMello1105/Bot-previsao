@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bot Automático - Previsão de Próxima Cor - Jogo Double</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div id="clock"></div>
+  <div id="date"></div>
+
+  <div id="prediction-container">
+    <div class="highlight">SEM GALE</div>
+    <p id="predicted-color"></p>
+    <p id="accuracy"></p>
+    <div id="trend-analysis"></div> <!-- Análise de Tendência -->
+    <div id="logo">JULIANA MELLO</div>
+  </div>
+
+  <script src="js/script.js"></script>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bot Automático - Previsão de Próxima Cor - Jogo Double</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div id="clock"></div>
+  <div id="date"></div>
+
+  <div id="prediction-container">
+    <div class="highlight">SEM GALE</div>
+    <p id="predicted-color"></p>
+    <p id="accuracy"></p>
+    <div id="trend-analysis"></div> <!-- Análise de Tendência -->
+    <div id="logo">JULIANA MELLO</div>
+  </div>
+
+  <script src="js/script.js"></script>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bot Automático - Previsão de Próxima Cor - Jogo Double</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div id="clock"></div>
+  <div id="date"></div>
+
+  <div id="prediction-container">
+    <div class="highlight">SEM GALE</div>
+    <p id="predicted-color"></p>
+    <p id="accuracy"></p>
+    <div id="trend-analysis"></div> <!-- Análise de Tendência -->
+    <div id="logo">JULIANA MELLO</div>
+  </div>
+
+  <script src="js/script.js"></script>
+</body>
+</html>
